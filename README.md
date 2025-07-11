@@ -1,4 +1,3 @@
-# TryHackMe-Cybersecurity-101-Path
 
 # TryHackMe: Cybersecurity 101 Path - My Learnings & Takeaways
 
